@@ -22,7 +22,6 @@ import org.springframework.integration.transaction.ExpressionEvaluatingTransacti
 import org.springframework.integration.transaction.PseudoTransactionManager;
 import org.springframework.integration.transaction.TransactionSynchronizationFactory;
 import org.springframework.messaging.MessageChannel;
-import org.springframework.stereotype.Component;
 
 @Configuration
 public class FilePollingIntegrationFlow {
