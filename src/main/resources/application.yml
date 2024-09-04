@@ -9,4 +9,6 @@ workflow:
         processed: "/workflow/processed"
         failed: "/workflow/failed"
 
-
+inbound:
+    filename:
+        regex: "" #TODO aggiungere regex
