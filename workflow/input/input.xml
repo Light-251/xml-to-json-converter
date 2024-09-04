@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book>
+        <title>Spring in Action</title>
+        <author>Craig Walls</author>
+        <publisher>Manning Publications</publisher>
+        <publishedDate>2022-07-05</publishedDate>
+        <isbn>9781617297571</isbn>
+        <price currency="USD">44.99</price>
+    </book>
+    <book>
+        <title>Java Concurrency in Practice</title>
+        <author>Brian Goetz</author>
+        <publisher>Addison-Wesley</publisher>
+        <publishedDate>2006-05-19</publishedDate>
+        <isbn>9780321349606</isbn>
+        <price currency="USD">54.99</price>
+    </book>
+    <book>
+        <title>Effective Java</title>
+        <author>Joshua Bloch</author>
+        <publisher>Addison-Wesley</publisher>
+        <publishedDate>2018-01-11</publishedDate>
+        <isbn>9780134685991</isbn>
+        <price currency="USD">45.00</price>
+    </book>
+</library>

@@ -1,0 +1,12 @@
+spring:
+    application:
+        name: "xml-to-json-converter"
+
+workflow:
+    directories:
+        input: "/workflow/input"
+        output: "/workflow/output"
+        processed: "/workflow/processed"
+        failed: "/workflow/failed"
+
+
